@@ -1,0 +1,10 @@
+C:\Users\Sebastian\projects\raycasting\target\debug\deps\libowned_ttf_parser-98808df6eee51720.rmeta: C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Users\Sebastian\projects\raycasting\target\debug\deps\libowned_ttf_parser-98808df6eee51720.rlib: C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Users\Sebastian\projects\raycasting\target\debug\deps\owned_ttf_parser-98808df6eee51720.d: C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs
+
+C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\lib.rs:
+C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\convert.rs:
+C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\owned.rs:
+C:\Users\Sebastian\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.15.2\src\preparse.rs:
