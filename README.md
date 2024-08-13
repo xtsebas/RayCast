@@ -57,7 +57,7 @@ This is a maze game written in Rust that features both 2D and 3D views. Navigate
 
 Ensure the following audio files are present in the project directory:
 
-- `pasos.mp3`: The sound effect played when the enemy appears.
+- `screamer.mp3`: The sound effect played when the enemy appears.
 
 ## License
 
