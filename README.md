@@ -68,3 +68,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The game uses the `minifb`, `rodio`, `rusttype`, and other crates for rendering, sound, and text.
 - Special thanks to the Rust community for their support and contributions.
 
+## Gameplay
+
+
+
+
+https://github.com/user-attachments/assets/dc9c0070-2893-4f4a-8a74-2584c695c45c
+
+
+
